@@ -33,6 +33,8 @@
 * `apt install curl`
 * `apt install wget`
 * `git clone https://github.com/mishakorzik/IFindYou`
+* `cd IFindYou`
+* `ngrok authtoken <token>`
 
 
 #### Finished you have successfully downloaded IFindYou now to launch!
