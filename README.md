@@ -35,7 +35,7 @@
 * `git clone https://github.com/mishakorzik/IFindYou`
 
 
-#### Finished you have successfully downloaded Ultra-DDos now to launch!
+#### Finished you have successfully downloaded IFindYou now to launch!
 
 * `cd IFindYou`
 * `bash main.sh`
