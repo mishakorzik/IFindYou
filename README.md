@@ -55,13 +55,13 @@ Package: 154 MB
 ## Donate
 
 **If you want to donate, click on the button**
-<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-UltraDDos-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://www.donationalerts.com/r/misha_korzhik"><img title="Donate" src="https://img.shields.io/badge/Donate-IFindYou-yellow?style=for-the-badge&logo=github"></a>
 -------
 
 <br>
 <p align="center">
-<img width="49.0%" src=""/> 
-<img width="49.0%" src=""/> 
+<img width="52.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220518_121125.jpg"/> 
+<img width="45.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220518_121344.jpg"/> 
 </p>
 
 --------
