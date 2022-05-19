@@ -74,8 +74,8 @@ Package: 154 MB
 
 <br>
 <p align="center">
-<img width="52.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220518_121125.jpg"/> 
-<img width="45.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220518_121344.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220518_121125.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/IMG_20220519_234907.jpg"/> 
 </p>
 
 --------
