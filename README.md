@@ -27,6 +27,7 @@
 
 * `pkg update`
 * `pkg upgrade`
+* `pkg install jq`
 * `pkg install git`
 * `apt install zip`
 * `apt install php`
