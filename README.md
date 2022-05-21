@@ -35,6 +35,7 @@
 * `apt install wget`
 * `git clone https://github.com/mishakorzik/IFindYou`
 * `cd IFindYou`
+* `bash install.sh`
 * `ngrok authtoken <token>`
 
 ```bash
